@@ -1,0 +1,7 @@
+@media screen and (max-width: 435px) {
+    /* Slide */
+    .slideshow-container{
+        width: 150%;
+        margin-top: -100px;
+    }
+}
